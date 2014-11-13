@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Grade Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_secondpage">Secondpage</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_thirdpage">thirdpage</string>
+    <string name="title_activity_inputfeg">inputfeg</string>
+    <string name="title_activity_inputpeg">inputpeg</string>
+    <string name="title_activity_inputqg">inputqg</string>
+    <string name="title_activity_computedgrade">computedgrade</string>
+    <string name="title_activity_finalandeq">finalandeq</string>
+
+</resources>
